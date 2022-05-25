@@ -9,3 +9,4 @@ ex02: Visualized the population size distribution across all age groups, grouped
 ![ex02_01](https://user-images.githubusercontent.com/71325779/170366125-9584dd1c-f2f6-49cd-8c8c-6cdda8c6c663.jpeg)
 
 ex03: Visualized and Compared the daily cases increase for each of the cantons from June 2020. Displayed and linked daily total tests numbers together with positive cases numbers in two plot
+![ex03_01](https://user-images.githubusercontent.com/71325779/170366322-69fa29bb-5161-4d30-8823-03ee13f56110.jpeg)
